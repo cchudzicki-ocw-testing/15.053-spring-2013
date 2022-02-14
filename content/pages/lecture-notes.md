@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
 title: Lecture Notes
+type: CourseSection
 uid: 7eea5913-f25d-623d-1680-a2d7c1d1e4f0
 ---
 
@@ -96,7 +99,7 @@ L6
 {{< tdopen >}}
 
 
-[mc2 problem (XLS)]({{< baseurl >}}/resources/lec06_mc2)
+[mc{{< sup "2" >}} problem (XLS)]({{< baseurl >}}/resources/lec06_mc2)
 
 [Initial and final tableaus (XLS)]({{< baseurl >}}/resources/lec06_tableaus)
 
