@@ -4,6 +4,7 @@ description: ''
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/15-053-optimization-methods-in-management-science-spring-2013/aa6d6d7d93a12d557a6c3fd84d480791_MIT15_053S13_rec06sol.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Recitation Problems
 parent_type: CourseSection
 resourcetype: Document

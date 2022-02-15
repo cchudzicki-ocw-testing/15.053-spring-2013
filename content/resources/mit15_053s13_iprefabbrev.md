@@ -4,6 +4,7 @@ description: This file contains information regarding IP formulation guide - abb
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/15-053-optimization-methods-in-management-science-spring-2013/92ef070281243b4efb54ff07e9d19b0b_MIT15_053S13_iprefabbrev.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
 resourcetype: Document

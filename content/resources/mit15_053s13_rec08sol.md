@@ -4,6 +4,7 @@ description: This file contains information regarding recitation 8 solutions.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/15-053-optimization-methods-in-management-science-spring-2013/658722be10a4c5ae0f51bd7b12316d15_MIT15_053S13_rec08sol.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Recitation Problems
 parent_type: CourseSection
 resourcetype: Document

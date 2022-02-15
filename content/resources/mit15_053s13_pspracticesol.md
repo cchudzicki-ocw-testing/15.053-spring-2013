@@ -4,6 +4,7 @@ description: This file contains information regarding practice problems solution
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/15-053-optimization-methods-in-management-science-spring-2013/f6806e32e943eef6aace970c33019d7f_MIT15_053S13_pspracticesol.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
 resourcetype: Document

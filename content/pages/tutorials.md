@@ -2,6 +2,7 @@
 content_type: page
 learning_resource_types:
 - Tutorials
+ocw_type: CourseSection
 title: Tutorials
 uid: ca4006b9-794a-eac0-c71f-2d64cdfcbe29
 ---
