@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Other
 title: ps6.xlsb
-type: OCWFile
 uid: f8c0cbc5-c4a6-43f8-aceb-f33bc5a90cc6
 ---

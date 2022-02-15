@@ -8,6 +8,5 @@ parent_title: Study Materials
 parent_type: CourseSection
 resourcetype: Document
 title: Practice problems solutions
-type: OCWFile
 uid: f6806e32-e943-eef6-aace-970c33019d7f
 ---

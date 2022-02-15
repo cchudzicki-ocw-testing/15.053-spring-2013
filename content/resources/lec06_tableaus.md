@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Other
 title: lec06_tableaus.xlsx
-type: OCWFile
 uid: cdc1e28b-3922-96d2-0451-a457f0799a68
 ---

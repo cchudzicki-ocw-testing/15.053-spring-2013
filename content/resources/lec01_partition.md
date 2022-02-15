@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Other
 title: lec01_partition.xlsm
-type: OCWFile
 uid: 16e22256-2db2-8020-df87-76e99bdb2195
 ---

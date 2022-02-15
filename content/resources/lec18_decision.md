@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Other
 title: lec18_decision.xlsx
-type: OCWFile
 uid: b3c9ce6c-cee2-1ea5-7927-e8c525514026
 ---

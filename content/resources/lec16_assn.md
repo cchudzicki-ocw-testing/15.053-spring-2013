@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Other
 title: lec16_assn.xls
-type: OCWFile
 uid: 20f7af60-6c7c-479e-6747-9ef6eb7a137e
 ---

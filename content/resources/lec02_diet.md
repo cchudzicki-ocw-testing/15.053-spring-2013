@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Other
 title: lec02_diet.xlsx
-type: OCWFile
 uid: 81c2c2b3-e9a8-4a89-3639-7cc53bbdb7a7
 ---

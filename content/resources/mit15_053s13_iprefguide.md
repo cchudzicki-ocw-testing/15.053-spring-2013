@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: IP reference guide
-type: OCWFile
 uid: 86d472ff-a3f1-c341-c586-cb26ba1093c1
 ---

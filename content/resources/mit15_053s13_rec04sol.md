@@ -8,6 +8,5 @@ parent_title: Recitation Problems
 parent_type: CourseSection
 resourcetype: Document
 title: Recitation 4 solutions
-type: OCWFile
 uid: 4eca738a-43c4-75a8-9a1e-56cdc40d86f3
 ---

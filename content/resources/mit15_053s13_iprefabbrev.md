@@ -8,6 +8,5 @@ parent_title: Study Materials
 parent_type: CourseSection
 resourcetype: Document
 title: IP Formulation guide - abbreviated
-type: OCWFile
 uid: 92ef0702-8124-3b4e-fb54-ff07e9d19b0b
 ---

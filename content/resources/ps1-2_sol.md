@@ -10,6 +10,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Other
 title: ps1-2_sol.xls
-type: OCWFile
 uid: 3862f7ef-6cc1-494e-c6c0-871af461f405
 ---

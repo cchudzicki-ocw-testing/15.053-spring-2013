@@ -8,6 +8,5 @@ parent_title: Study Materials
 parent_type: CourseSection
 resourcetype: Document
 title: Quiz 6 study guide
-type: OCWFile
 uid: b92b1c7b-f1ee-17e5-9b80-8e94c3f7c6ce
 ---
