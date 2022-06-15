@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides study guides for selected quizzes, a practice problems
+  and solutions for the midterm exam, and an integer programming forumulation guide.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Study Materials
