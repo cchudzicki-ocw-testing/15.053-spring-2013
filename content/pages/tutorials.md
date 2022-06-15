@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides tutorials for background and supplemental study,
+  and information on prerequisite Microsoft Excel skills for the course.
 draft: false
 learning_resource_types:
 - Tutorials
