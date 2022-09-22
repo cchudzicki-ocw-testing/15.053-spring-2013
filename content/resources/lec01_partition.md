@@ -5,6 +5,7 @@ file: /courses/15-053-optimization-methods-in-management-science-spring-2013/16e
 file_type: application/vnd.ms-excel.sheet.macroEnabled.12
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection

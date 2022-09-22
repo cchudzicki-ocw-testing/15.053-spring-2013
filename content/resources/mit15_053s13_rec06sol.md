@@ -4,6 +4,7 @@ description: ''
 file: /courses/15-053-optimization-methods-in-management-science-spring-2013/aa6d6d7d93a12d557a6c3fd84d480791_MIT15_053S13_rec06sol.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitation Problems
 parent_type: CourseSection

@@ -5,6 +5,7 @@ file: /courses/15-053-optimization-methods-in-management-science-spring-2013/f8c
 file_type: application/vnd.ms-excel.sheet.binary.macroEnabled.12
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
